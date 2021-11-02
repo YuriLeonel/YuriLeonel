@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello World 🚀
+
+### Welcome my friend, how are you ?
+
+### On this github you will see a little of my studies
+- 🌤  Currently working on Cleancloud
+- 😁 Almost finish the course of Analisys and Systems Development
+- 🤔 Imagination is everything
+
 
 <!--
 **YuriLeonel/YuriLeonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
