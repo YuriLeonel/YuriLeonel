@@ -11,7 +11,6 @@ Meet me on [linkedin 📱](https://www.linkedin.com/in/yurileonel/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLeonel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${YuriLeonel}.${YuriLeonel})
 [![Github](https://img.shields.io/github/followers/YuriLeonel?label=Follow&style=social)](https://github.com/YuriLeonel)
 
 
