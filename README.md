@@ -1,11 +1,11 @@
 ## Hello There 🚀
 
-### Welcome my friend, how are you ?
+### Welcome my friend, how are you?
 
-### On this github you will see a little of my studies
-- 🌤  Currently working on [Cleancloud](https://cleancloud.io/)
-- 😁 Almost finishing the Analisys and Systems Development course
-- 🤔 Imagination is everything
+### On this GitHub you will see a little of my studies
+- 🌤  Currently working on [SEK](https://sek.io/) and developing my skills on Typescript, Vue3 and Nuxt3
+- 😁 Almost finishing the Analysis and Systems Development course
+- 🤔 Imagination is everything as said Albert Einstein, have you imagined something different today?
 
 Meet me on [linkedin 📱](https://www.linkedin.com/in/yurileonel/)
 
