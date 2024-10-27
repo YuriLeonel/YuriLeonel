@@ -1,17 +1,31 @@
-## Hello There 🚀
+## 👋 Hello, I'm Yuri Leonel
 
-### Welcome my friend, how are you?
+I'm a Frontend Developer passionate about building scalable and user-friendly web applications, currently specializing in **TypeScript**, **Vue3**, and **Nuxt3**.
 
-### On this GitHub you will see a little of my studies
-- 🌤  Currently working on [SEK](https://sek.io/) and developing my skills on Typescript, Vue3 and Nuxt3
-- 😁 Graduated in Analysis and Systems Development
-- 🤔 Imagination is everything as said Albert Einstein. Have you imagined something different today?
+### 🛠 Skills & Technologies
+- **Languages**: TypeScript, JavaScript
+- **Frameworks & Libraries**: Vue, Vite, React, Next
+- **Tools & Platforms**: Git, TailwindCSS, Azure DevOps
 
-Meet me on [linkedin 📱](https://www.linkedin.com/in/yurileonel/)
+### 🚀 Current Focus
+- Building secure and efficient web applications at [SEK](https://sek.io/).
+- Deepening expertise in TypeScript and mastering Vue3 & Nuxt3.
+  
+### 📈 Learning & Growth
+I'm always open to learning new technologies and expanding my expertise. Currently, I'm building knowledge in:
+- **DevOps Practices**: Enhancing development pipelines and deployment processes.
+- **Project Architecture**: Developing skills to design scalable, maintainable systems.
+  
+### 🌱 Philosophy
+"Imagination is everything." – Albert Einstein. I believe in creating innovative solutions that make an impact.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLeonel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+### 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLeonel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 [![Github](https://img.shields.io/github/followers/YuriLeonel?label=Follow&style=social)](https://github.com/YuriLeonel)
+
+---
+
+*Meet me on [LinkedIn](https://www.linkedin.com/in/yurileonel/)*
 
 
 <!--
