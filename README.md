@@ -4,8 +4,8 @@ I'm a Frontend Developer passionate about building scalable and user-friendly we
 
 ### 🛠 Skills & Technologies
 - **Languages**: TypeScript, JavaScript
-- **Frameworks & Libraries**: Vue, Vite, React, Next
-- **Tools & Platforms**: Git, TailwindCSS, Azure DevOps
+- **Frameworks & Libraries**: Vue, Vite, React, Next, Nuxt, Pinia
+- **Tools & Platforms**: Git, TailwindCSS, Azure DevOps, AWS
 
 ### 🚀 Current Focus
 - Building secure and efficient web applications at [SEK](https://sek.io/).
