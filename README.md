@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Yuri Leonel
 
-I'm a Frontend Developer passionate about building scalable and user-friendly web applications, currently specializing in **TypeScript**, **Vue3**, and **Nuxt3**.
+I'm a Front-End Developer passionate about building scalable and user-friendly web applications. I currently specialize in TypeScript, Vue, Nuxt, and TailwindCSS.
 
 ### 🛠 Skills & Technologies
 - **Languages**: TypeScript, JavaScript
@@ -15,6 +15,7 @@ I'm a Frontend Developer passionate about building scalable and user-friendly we
 I'm always open to learning new technologies and expanding my expertise. Currently, I'm building knowledge in:
 - **DevOps Practices**: Enhancing development pipelines and deployment processes.
 - **Project Architecture**: Developing skills to design scalable, maintainable systems.
+- **Programming Languages**: Learning GoLang to expand my horizons for backend development and learn other things beyond the Javascript stack.
   
 ### 🌱 Philosophy
 "Imagination is everything." – Albert Einstein. I believe in creating innovative solutions that make an impact.
