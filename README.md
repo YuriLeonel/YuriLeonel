@@ -31,9 +31,10 @@ I believe that innovation and clear communication are at the heart of effective 
 
 ### 🔍 Featured Projects
  
-- [**Portfolio**](https://github.com/YuriLeonel/my_linktree) — Basic LinkTree! Built with React, Typescript and TailwindCSS and deployed on Netlify  
-- [**Ecoleta**](https://github.com/YuriLeonel/NLW-Ecoleta) — Project developed in Next Level Week by Rocketseat. For this project was used React, React Native, and Typescript as tecnologys and SQLite as Database
-- [**Be The Hero**](https://github.com/YuriLeonel/be-the-hero) — Project developed in Omnistack Week 11 by Rocketseat. For this project was used React and NodeJs as tecnologys and SQLite as Database
+- [**Portfolio**](https://github.com/YuriLeonel/my_linktree) — Basic LinkTree! Built with React, TypeScript, and TailwindCSS and deployed on Netlify  
+- [**Ecoleta**](https://github.com/YuriLeonel/NLW-Ecoleta) — Project developed in Next Level Week by Rocketseat. For this project, React, React Native, and TypeScript were used as technologies, and SQLite was used as a Database
+- [**Be The Hero**](https://github.com/YuriLeonel/be-the-hero) — Project developed in Omnistack Week 11 by Rocketseat. For this project, React and Node.js were used as technologies, and SQLite as a Database
+  
 *(More updates coming soon — stay tuned)*
 
 ---
