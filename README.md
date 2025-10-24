@@ -7,11 +7,11 @@ I specialize in **Vue 3**, **Nuxt 3**, and **TypeScript**, and I'm expanding int
 
 ### 💼 About Me
 
-- Frontend Developer at [SEK](https://sek.io) (cybersecurity platform)  
-- Tech Stack: Vue 3, Nuxt 3, TypeScript, TailwindCSS, Pinia, Vite  
-- Tools: Git, Netlify, Azure DevOps, AWS  
+- Software Engineer
+- Tech Stack: React, TypeScript, TailwindCSS, Next, Vite  
+- Tools: Git, AWS, Azure DevOps
 - Security-aware from daily work in cyber-focused environments  
-- Currently learning: **Python for AI**, system design, and DevOps
+- Currently learning: **Python for AI**, system design, and architecture
 
 ---
 
