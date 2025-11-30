@@ -33,7 +33,8 @@ I aim to write code that is readable, testable, and maintainable while solving r
 
 ### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLeonel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 [![Followers](https://img.shields.io/github/followers/YuriLeonel?label=Follow&style=social)](https://github.com/YuriLeonel)
 
 ---
